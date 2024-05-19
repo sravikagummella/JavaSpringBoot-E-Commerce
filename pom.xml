@@ -16,7 +16,7 @@
 	<name>JT-Project-EC</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>3.8.1</java.version>
+		<java.version>3.235.1</java.version>
 	</properties>
 
 	<dependencies>
